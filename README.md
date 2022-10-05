@@ -226,5 +226,5 @@ def update_graph(selected_dropdown_value):
     return figure
 
 
-if __name__=='__main__':
-    app.run_server(debug=True)
+if _name=='main_':
+    app.run_server(debug=True
